@@ -5,6 +5,8 @@ title: Eduardo Coelho
 
 ### About
 
+![](/images/profile_picture.jpg)
+
 My name is Eduardo Coelho, I am graduated in Computer Science and I am a software engineer mainly interested in mobile application development. I am an optimist startup enthusiast and some of my interests include technology, architecture, design, traveling, cafés and dogs.
 
 I started developing native iOS applications in 2008, I also worked with Xamarin cross-platform applications in 2012. I currently develop casual games with Unity3D for iOS and Android platforms.
