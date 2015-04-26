@@ -13,4 +13,4 @@ I started developing native iOS applications in 2008, I also worked with Xamarin
 
 I’m enjoying life at my home office in Apiúna, SC (Brazil), from where I work as a remote developer since 2013. I value work ethic and flexibility and I’m always on the lookout for interesting new things to learn.
 
-You can reach me via email. You can also find me on [Twitter](https://twitter.com/eduardo_coelho), [Instagram](https://twitter.com/eduardo_coelho) or [Facebook](https://www.facebook.com/coelho.edu).
+You can reach me via [email](mailto:eduardo@educoelho.com). You can also find me on [Twitter](https://twitter.com/eduardo_coelho), [Instagram](https://twitter.com/eduardo_coelho) or [Facebook](https://www.facebook.com/coelho.edu).
