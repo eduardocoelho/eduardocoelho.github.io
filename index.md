@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Eduardo Coelho
 ---
 
 ![](/images/profile_picture.jpg)
