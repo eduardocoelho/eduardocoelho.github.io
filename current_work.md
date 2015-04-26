@@ -4,9 +4,11 @@ title: Current work
 permalink: /current_work/
 ---
 
-I currently work as a remote software developer for Redstone Games, a mobile game startup founded by me and a few partners in 2014.
+#### Redstone Games
 
-Our focus is to publish casual games for iOS and Android platforms and we currently use Unity3D as the game engine.
+I currently work as a remote software developer for Redstone Games, a mobile game startup focused in publishing casual games for iOS and Android platforms.
+
+You can check some of our games below:
 
 - Redstone Mahjong ([iOS](https://itunes.apple.com/app/id880605393), [Android](https://play.google.com/store/apps/details?id=mobi.redstonegames.redstonemahjong))
 - Redstone Crossword Puzzle ([iOS](https://itunes.apple.com/app/id957848865))

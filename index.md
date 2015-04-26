@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: center
 title: Eduardo Coelho
 ---
 
-![](/images/profile_picture.jpg)
+<img align="middle" src="images/profile_picture.jpg" alt="...">
 
 My name is Eduardo Coelho, I am graduated in Computer Science and I am a software engineer mainly interested in mobile application development. I am an optimist startup enthusiast and some of my interests include technology, architecture, design, traveling, cafés and dogs.
 
