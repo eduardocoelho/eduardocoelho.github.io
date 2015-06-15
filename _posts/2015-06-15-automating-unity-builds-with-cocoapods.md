@@ -10,8 +10,8 @@ One of the things I’ve always found most annoying in Unity3D was the tricky an
 
 ### 2. Download external resources ###
 
-- [XcodeAPI.zip](): extract it and move all files into Unity\`s `/Assets/Editor/` folder. This contains the [Xcode Manipulation API](https://bitbucket.org/Unity-Technologies/xcodeapi/overview) and my `XcodePostprocess.cs` script, which will be explained later.
-- [XCodeFiles.zip](): extract it and move the `XCodeFiles` folder into the Unity project root folder. The final folder structure must look like this:
+- [XcodeAPI.zip](/posts-files/2015-06-15/XcodeAPI.zip): extract it and move all files into Unity\`s `/Assets/Editor/` folder. This contains the [Xcode Manipulation API](https://bitbucket.org/Unity-Technologies/xcodeapi/overview) and my `XcodePostprocess.cs` script, which will be explained later.
+- [XCodeFiles.zip](/posts-files/2015-06-15/XCodeFiles.zip): extract it and move the `XCodeFiles` folder into the Unity project root folder. The final folder structure must look like this:
 
         ...
         ProjectSettings
