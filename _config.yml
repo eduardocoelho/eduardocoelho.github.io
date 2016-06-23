@@ -52,3 +52,6 @@ paginate:     3
 paginate_path: "blog/page:num"
 sass:
   compressed: true
+
+# Gems
+gems: [jekyll-paginate]
