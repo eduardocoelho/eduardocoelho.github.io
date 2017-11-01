@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/eduardoc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://educoelho.com
+  * I am eduardoc (https://keybase.io/eduardoc) on keybase.
+  * I have a public key ASCtIs6JdDwYfXfEEwaFWkic6i-LEvJuZI_AzxTRwtyeEwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ad22ce89743c187d77c41306855a489cea2f8b12f26e648fc0cf14d1c2dc9e130a",
+      "host": "keybase.io",
+      "kid": "0120ad22ce89743c187d77c41306855a489cea2f8b12f26e648fc0cf14d1c2dc9e130a",
+      "uid": "90790c3068a4a28f1f6d12bce360cb19",
+      "username": "eduardoc"
+    },
+    "merkle_root": {
+      "ctime": 1509497841,
+      "hash": "6650a5fec319f715d440dbe5421c63a282ba63326a791aa86ffd09a5c8179529f874f36970e9bc1aae502bca2b8d6d5c450f7d10ac3be34215d182db5952e6b9",
+      "hash_meta": "aa6fe4f70ab4b210814b15176dda6dc7e1fba588a1c7320ae560355a8f84a03a",
+      "seqno": 1652971
+    },
+    "service": {
+      "hostname": "educoelho.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509497881,
+  "expire_in": 504576000,
+  "prev": "3756568ca4bc1e753c091bf07cfdf3d16065ca7792bf68502397656d9bd8047a",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrSLOiXQ8GH13xBMGhVpInOovixLybmSPwM8U0cLcnhMKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYWQyMmNlODk3NDNjMTg3ZDc3YzQxMzA2ODU1YTQ4OWNlYTJmOGIxMmYyNmU2NDhmYzBjZjE0ZDFjMmRjOWUxMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWQyMmNlODk3NDNjMTg3ZDc3YzQxMzA2ODU1YTQ4OWNlYTJmOGIxMmYyNmU2NDhmYzBjZjE0ZDFjMmRjOWUxMzBhIiwidWlkIjoiOTA3OTBjMzA2OGE0YTI4ZjFmNmQxMmJjZTM2MGNiMTkiLCJ1c2VybmFtZSI6ImVkdWFyZG9jIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA5NDk3ODQxLCJoYXNoIjoiNjY1MGE1ZmVjMzE5ZjcxNWQ0NDBkYmU1NDIxYzYzYTI4MmJhNjMzMjZhNzkxYWE4NmZmZDA5YTVjODE3OTUyOWY4NzRmMzY5NzBlOWJjMWFhZTUwMmJjYTJiOGQ2ZDVjNDUwZjdkMTBhYzNiZTM0MjE1ZDE4MmRiNTk1MmU2YjkiLCJoYXNoX21ldGEiOiJhYTZmZTRmNzBhYjRiMjEwODE0YjE1MTc2ZGRhNmRjN2UxZmJhNTg4YTFjNzMyMGFlNTYwMzU1YThmODRhMDNhIiwic2Vxbm8iOjE2NTI5NzF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZWR1Y29lbGhvLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDk0OTc4ODEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMzc1NjU2OGNhNGJjMWU3NTNjMDkxYmYwN2NmZGYzZDE2MDY1Y2E3NzkyYmY2ODUwMjM5NzY1NmQ5YmQ4MDQ3YSIsInNlcW5vIjo2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBJjQVREOgFWVAQISMdD7x/Jynit5kqTfURUlbZDeiO4S/5168zT9Svft7bHtf5cngilRXzZkDScX3TPp/P9RgWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCyJoWnUanbfumW1dJOs8HY6IYIsry7T7+5/QmFg/2z3KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eduardoc
+
+==================================================================
