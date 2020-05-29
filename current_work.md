@@ -6,7 +6,7 @@ permalink: /current_work/
 
 #### Redstone Games
 
-I run [Redstone Games](http://www.redstonegames.mobi), a mobile game studio focused on publishing casual games for iOS and Android platforms. Currently, I'm the product owner Crossword Puzzle Redstone, a cross-platform mobile application targeted to English-speaking crossword solvers.
+I run [Redstone Games](http://www.redstonegames.mobi), a mobile game studio focused on publishing casual games for iOS and Android platforms. Currently, I'm the product owner of Crossword Puzzle Redstone, a cross-platform mobile application targeted to English-speaking crossword solvers.
 
 Other applications published by Redstone Games include:
 
