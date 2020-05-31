@@ -8,7 +8,7 @@ permalink: /current_work/
 
 I run [Redstone Games](http://www.redstonegames.mobi), a mobile game studio focused on publishing casual games for iOS and Android platforms. Currently, I'm the product owner of Crossword Puzzle Redstone, a cross-platform mobile application targeted to English-speaking crossword solvers.
 
-Other applications published by Redstone Games include:
+Applications published by Redstone Games include:
 
 - Crossword Puzzle Redstone ([iOS](https://itunes.apple.com/app/id957848865), [Android](https://play.google.com/store/apps/details?id=mobi.redstonegames.crossword.en), [Amazon](https://www.amazon.com/dp/B01J92QJZO/))
 - Mahjong Solitaire Redstone ([iOS](https://itunes.apple.com/app/id880605393), [Android](https://play.google.com/store/apps/details?id=mobi.redstonegames.redstonemahjong))
