@@ -8,11 +8,11 @@ permalink: /past/
 
 ##### (2013 - 2014)
 
-- [Namoro On](http://www.namoroon.com): a cross-platform mobile dating application available for [iOS](https://itunes.apple.com/app/id658522746) and [Android](https://play.google.com/store/apps/details?id=com.namoromobile.namoro).
+- [Namoro On](https://www.namoroon.com): a cross-platform mobile dating application available for [iOS](https://itunes.apple.com/app/id658522746) and [Android](https://play.google.com/store/apps/details?id=com.namoromobile.namoro).
 
 ##### (2008 - 2013)
 
-- Real Estate apps with 360° virtual tour features developed for [Oficina3D](http://www.oficina3d.com.br):
+- Real Estate apps with 360° virtual tour features developed for [Oficina3D](https://www.oficina3d.com.br):
     - [Bravíssima](https://itunes.apple.com/app/id646844989)
     - [Ferplan Construtora e Incorporadora](https://itunes.apple.com/app/id535688279)
     - [Mendes Sibara Construtora](https://itunes.apple.com/app/id508845342)

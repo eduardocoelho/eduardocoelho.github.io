@@ -1,3 +1,3 @@
 # Eduardo Coelho's website
 
-http://www.educoelho.com
+https://www.educoelho.com

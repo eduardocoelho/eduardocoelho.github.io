@@ -4,7 +4,7 @@ https://keybase.io/eduardoc
 
 I hereby claim:
 
-  * I am an admin of http://educoelho.com
+  * I am an admin of https://educoelho.com
   * I am eduardoc (https://keybase.io/eduardoc) on keybase.
   * I have a public key ASCtIs6JdDwYfXfEEwaFWkic6i-LEvJuZI_AzxTRwtyeEwo
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "hostname": "educoelho.com",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
