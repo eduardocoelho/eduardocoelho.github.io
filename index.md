@@ -17,4 +17,4 @@ I began developing native iOS applications in 2008 and worked with Xamarin cross
 
 I enjoy life at my home office in Balneário Camboriú (SC, Brazil), where I’ve been running my company and working remotely since 2018. I value work ethic and flexibility, and I’m always on the lookout for new and interesting things to learn.
 
-You can reach me via [email](mailto:eduardo@educoelho.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/educoelho), [Twitter](https://twitter.com/eduardo_coelho), [Instagram](https://instagram.com/eduardo_coelho) or [Facebook](https://www.facebook.com/coelho.edu).
+You can reach me via [email](mailto:eduardo@educoelho.com). I'm also on [LinkedIn](https://www.linkedin.com/in/educoelho), [Instagram](https://instagram.com/eduardo_coelho), [X](https://x.com/eduardo_coelho), and [Facebook](https://www.facebook.com/coelho.edu).
