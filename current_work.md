@@ -21,4 +21,4 @@ Applications published by Redstone Games include:
 
 Applications published by Educoelho include:
 
-- Crucigramas en Español ([iOS](https://itunes.apple.com/app/id1635795449), [Android](https://play.google.com/store/apps/details?id=com.educoelho.crucigrama))
+- [Crucigramas en Español](/crucigrama/)
